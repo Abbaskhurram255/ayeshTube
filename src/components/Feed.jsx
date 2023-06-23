@@ -54,7 +54,7 @@ function Feed() {
               color: "#fff"
             }}
           >
-            Copyright 2022 Mytube
+            Copyright 2023 AyeshaPT
           </Typography>
         </Box>
         <Box
